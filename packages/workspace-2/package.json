@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "devDependencies": {
+    "workspace-1": "workspace:^",
+    "@storybook/builder-webpack5": "^6.4.19",
+    "@storybook/manager-webpack5": "^6.4.19",
+    "@storybook/react": "^6.4.19",
+    "core-js": "^3.21.1",
+    "fork-ts-checker-webpack-plugin": "^7.2.1",
+    "terser-webpack-plugin": "^5.3.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-manifest-plugin": "^5.0.0"
+  }
+}
